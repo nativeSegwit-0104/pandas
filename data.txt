@@ -1,0 +1,8 @@
+﻿custom_index	name	age	city
+a	John	25	New York
+b	Jane	30	Los Angeles
+c	Doe	22	Chicago
+d	Alice	28	Houston
+e	Bob	35	Phoenix
+f	Charlie	40	Philadelphia
+g	Eve	29	San Antonio
